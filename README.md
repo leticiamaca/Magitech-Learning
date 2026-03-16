@@ -73,7 +73,7 @@ Esta versão é uma reescrita com foco em qualidade de código e experiência co
 <img src="./magitech-frontend/imgReadme/02.png" alt="Login"/>
 
 ### Curso - aula teorica
-<img src="./magitech-frontend/imgReadme/03.png" alt="Curso"/>
+<img src="./magitech-frontend/imgReadme/05.png" alt="Curso"/>
 
 ---
 
