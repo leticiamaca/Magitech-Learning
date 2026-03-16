@@ -66,19 +66,14 @@ Esta versão é uma reescrita com foco em qualidade de código e experiência co
 
 ## 🖼️ Preview da Aplicação
 
-> Adicione screenshots e GIFs da aplicação rodando aqui
-
-### Tela Inicial
-<!-- ![Banner](./docs/screenshots/banner.png) -->
+### Banner
+<img src="./magitech-frontend/imgReadme/01.png" alt="Login"/>
 
 ### Login e Autenticação
-<!-- ![Login](./docs/screenshots/login.png) -->
+<img src="./magitech-frontend/imgReadme/02.png" alt="Login"/>
 
-### Plataforma de Cursos
-<!-- ![Cursos](./docs/screenshots/cursos.png) -->
-
-### Módulo VR
-<!-- ![VR](./docs/screenshots/vr.gif) -->
+### Curso - aula teorica
+<img src="./magitech-frontend/imgReadme/03.png" alt="Curso"/>
 
 ---
 
